@@ -33,6 +33,7 @@
 								<option id="de.innot.avreclipse.compiler.option.language.ubitfields.1205800968" name="bitfields are unsigned (-funsigned-bitfields)" superClass="de.innot.avreclipse.compiler.option.language.ubitfields" value="false" valueType="boolean"/>
 								<option id="de.innot.avreclipse.compiler.option.incpath.2038570026" name="Include Paths (-I)" superClass="de.innot.avreclipse.compiler.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src_v1.0.4}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/variants_v1.0.4/eightanaloginputs}&quot;"/>
 								</option>
 								<inputType id="de.innot.avreclipse.compiler.winavr.input.594571057" name="C Source Files" superClass="de.innot.avreclipse.compiler.winavr.input"/>
 							</tool>
@@ -46,6 +47,7 @@
 								<option id="de.innot.avreclipse.cppcompiler.option.language.ubitfields.2024497380" name="bitfields are unsigned (-funsigned-bitfields)" superClass="de.innot.avreclipse.cppcompiler.option.language.ubitfields" value="false" valueType="boolean"/>
 								<option id="de.innot.avreclipse.cppcompiler.option.incpath.603211631" name="Include Paths (-I)" superClass="de.innot.avreclipse.cppcompiler.option.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/src_v1.0.4}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/variants_v1.0.4/eightanaloginputs}&quot;"/>
 								</option>
 								<inputType id="de.innot.avreclipse.cppcompiler.input.1559960299" superClass="de.innot.avreclipse.cppcompiler.input"/>
 							</tool>
