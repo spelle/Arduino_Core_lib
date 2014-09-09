@@ -4,3 +4,5 @@
 /Arduino_Uno_Rev3
 /.settings
 /Arduino_Uno_Rev3/
+/src/*
+/variants/*
