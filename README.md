@@ -8,3 +8,7 @@ $ git submodule update
 
 $ cd Arduino
 $ git reset --hard e9c72c927887b5a96c90e486c44254d78d2f4bf0
+
+Open Eclipse & import project
+
+Enjoy !
